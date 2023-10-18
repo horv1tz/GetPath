@@ -1,7 +1,7 @@
 # GetPath
 ## Setting Execution Policies
 ```powershell
-Set-ExecutionPolicy RemoteSigned
+Set-ExecutionPolicy ByPass
 ```
 ## Downloading the script
 ### Using Git
